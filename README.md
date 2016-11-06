@@ -30,3 +30,7 @@ instantiate the container
  - Docker run exposing port 5000
 
 
+## configure GIT to docker integration
+
+https://www.docker.com/sites/default/files/RA_CI%20with%20Docker_08.25.2015.pdf
+
