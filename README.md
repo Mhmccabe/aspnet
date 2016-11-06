@@ -34,3 +34,7 @@ instantiate the container
 
 https://www.docker.com/sites/default/files/RA_CI%20with%20Docker_08.25.2015.pdf
 
+
+
+## publish an image to hub.docker
+https://www.howtoforge.com/tutorial/building-and-publishing-custom-docker-images/
