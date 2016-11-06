@@ -4,6 +4,7 @@ services:
         build: .
         ports:
          - "5000:5000"
+         # -"5000"      will publish the internal port on a rendom port on host
         volumes:
          - .:/code
         depends_on:
